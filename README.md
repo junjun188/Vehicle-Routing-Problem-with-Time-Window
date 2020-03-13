@@ -7,4 +7,4 @@ Bat algorithm is based on the echolocation behavior of bats. It is a metaheurist
  
 Discrete Bat Algorithm(DBA)
 
-Bat algorithm applies to the continuous domain. In the following, we extend bat algorithm to the discrete domain where we call this algorithm as discrete bat algorithm.
+Bat algorithm applies to the continuous domain. In the following, we extend bat algorithm to the discrete domain where we call this algorithm discrete bat algorithm.
