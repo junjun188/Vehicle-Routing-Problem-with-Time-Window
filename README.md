@@ -1,5 +1,5 @@
-# Vehicle-Routing-Problem-with-Time-Window
-Vehicle Routing Problem with Time Window(VRPTW) using Discrete Bat Algorithm(DBA)
+# Vehicle-Routing-Problem-with-Time-Windows
+Vehicle Routing Problem with Time Windows(VRPTW) using Discrete Bat Algorithm(DBA)
 
 Bat Algorithm(BA)
 
