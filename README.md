@@ -8,3 +8,7 @@ Bat algorithm is based on the echolocation behavior of bats. It is a metaheurist
 Discrete Bat Algorithm(DBA)
 
 Bat algorithm applies to the continuous domain. In the following, we extend bat algorithm to the discrete domain where we call this algorithm discrete bat algorithm.
+
+Hybrid Discrete Bat Algorithm(HDBA)
+
+A hybrid discrete bat algorithm is proposed using discrete bat algorithm combined with local search method.
